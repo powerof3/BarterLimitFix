@@ -1,0 +1,14 @@
+# dot folders
+.vs*/
+.vscode/
+.xmake/
+.idea/
+
+# folders
+build*/
+out*/
+vs*/
+
+# files
+*.zip
+CMakeUserPresets.json
